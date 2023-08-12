@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "manifest_version": 3,
   "permissions": ["declarativeNetRequest"],
+  "description": "Blocks ads on websites",
   "declarative_net_request": {
     "rule_resources": [
       {
